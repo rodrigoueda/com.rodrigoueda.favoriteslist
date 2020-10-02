@@ -1,0 +1,17 @@
+{
+    "name": "rodrigoueda.favoriteslist.editor",
+    "references": [
+        "rodrigoueda.favoriteslist.editorutils"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
