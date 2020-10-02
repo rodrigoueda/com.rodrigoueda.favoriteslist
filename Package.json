@@ -1,0 +1,7 @@
+{
+    "name": "com.rodrigoueda.favoriteslist",
+    "displayName": "FavoritesList",
+    "version": "1.0.0",
+    "unity": "2020.1",
+    "description": "Custom window to save references of Objects, Assets, Scenes or Folders for later quick access."
+}
